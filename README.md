@@ -32,4 +32,4 @@ By creating a dashboard and having all the visualization on one page and creatin
 ## Summary
 By using the above shown visualizations, it can be determined that Des Moines could use a bike sharing program in their high trafficked areas. The main goal would have to find areas around the city that would be best enjoyed while riding a bike. Create tour routes with points of interests in order to influence potential users to become riders. Based on the visualizations, male enjoy shorter trips while females cruise for a longer time. Also, create a subscriber program with additional benefits and discounts to encourage users to join. Weekends tend to be high usage days and repairs should be made prior to the weekends and during nighttime.
 
-Click on the ![Link to Tableau Visualization](ttps://public.tableau.com/app/profile/hira.ayub/viz/CitiBike_16213859476590/NYCCitiBike)
+Click on the [Link to Tableau Visualization](https://public.tableau.com/app/profile/hira.ayub/viz/CitiBike_16213859476590/NYCCitiBike)
